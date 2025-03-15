@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise2\\Exercise2.csproj": {}
+    "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise4\\Exercise4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise2\\Exercise2.csproj": {
+    "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise4\\Exercise4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise2\\Exercise2.csproj",
-        "projectName": "Exercise2",
-        "projectPath": "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise2\\Exercise2.csproj",
+        "projectUniqueName": "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise4\\Exercise4.csproj",
+        "projectName": "Exercise4",
+        "projectPath": "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise4\\Exercise4.csproj",
         "packagesPath": "C:\\Users\\Ejgri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise2\\obj\\",
+        "outputPath": "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exercise4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ejgri\\AppData\\Roaming\\NuGet\\NuGet.Config"
