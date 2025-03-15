@@ -1,0 +1,15 @@
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\bin\Debug\net6.0\JournalProgram.exe
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\bin\Debug\net6.0\JournalProgram.deps.json
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\bin\Debug\net6.0\JournalProgram.runtimeconfig.json
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\bin\Debug\net6.0\JournalProgram.dll
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\bin\Debug\net6.0\JournalProgram.pdb
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\JournalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\JournalProgram.AssemblyInfoInputs.cache
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\JournalProgram.AssemblyInfo.cs
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\JournalProgram.csproj.CoreCompileInputs.cache
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\JournalProgram.sourcelink.json
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\JournalProgram.dll
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\refint\JournalProgram.dll
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\JournalProgram.pdb
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\JournalProgram.genruntimeconfig.cache
+C:\Users\Ejgri\cse210\CSE210-1\week2\Journal program\obj\Debug\net6.0\ref\JournalProgram.dll
