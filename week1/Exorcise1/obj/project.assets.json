@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exorcise1\\Exercise1.csproj",
+      "projectUniqueName": "C:\\Users\\Ejgri\\cse210\\CSE210\\week1\\Exorcise1\\Exercise1.csproj",
       "projectName": "Exercise1",
-      "projectPath": "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exorcise1\\Exercise1.csproj",
+      "projectPath": "C:\\Users\\Ejgri\\cse210\\CSE210\\week1\\Exorcise1\\Exercise1.csproj",
       "packagesPath": "C:\\Users\\Ejgri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ejgri\\cse210\\CSE210-1\\week1\\Exorcise1\\obj\\",
+      "outputPath": "C:\\Users\\Ejgri\\cse210\\CSE210\\week1\\Exorcise1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ejgri\\AppData\\Roaming\\NuGet\\NuGet.Config"
