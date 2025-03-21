@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\Encapsulation\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {}
+    "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\Encapsulation\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {
+    "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\Encapsulation\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+        "projectUniqueName": "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
         "projectName": "ScriptureMemorizer",
-        "projectPath": "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\Encapsulation\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+        "projectPath": "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
         "packagesPath": "C:\\Users\\Ejgri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\Encapsulation\\ScriptureMemorizer\\obj\\",
+        "outputPath": "C:\\Users\\Ejgri\\cse210\\CSE210\\week3\\ScriptureMemorizer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ejgri\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",

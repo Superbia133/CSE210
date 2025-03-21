@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-class Scripture
+public class Scripture
 {
     private Reference _reference;
     private List<Word> _words;
+    private Random _random = new Random();
 
     public Scripture(Reference reference, string text)
     {
@@ -13,28 +14,24 @@ class Scripture
         _words = text.Split(' ').Select(word => new Word(word)).ToList();
     }
 
-    public void HideRandomWords(int numberToHide)
+    public void HideRandomWords(int count)
     {
-        Random rand = new Random();
         var visibleWords = _words.Where(w => !w.IsHidden()).ToList();
-
-        if (visibleWords.Count > 0)
+        for (int i = 0; i < count && visibleWords.Count > 0; i++)
         {
-            for (int i = 0; i < numberToHide && visibleWords.Count > 0; i++)
-            {
-                int index = rand.Next(visibleWords.Count);
-                visibleWords[index].Hide();
-                visibleWords.RemoveAt(index);
-            }
+            int index = _random.Next(visibleWords.Count);
+            visibleWords[index].Hide();
+            visibleWords.RemoveAt(index);
         }
     }
 
     public string GetDisplayText()
     {
-        return $"{_reference.GetDisplayText()}: " + string.Join(" ", _words.Select(w => w.GetDisplayText()));
+        string verse = string.Join(" ", _words.Select(w => w.GetDisplayText()));
+        return $"{_reference.GetDisplayText()} - {verse}";
     }
 
-    public bool IsCompletelyHidden()
+    public bool AllWordsHidden()
     {
         return _words.All(w => w.IsHidden());
     }

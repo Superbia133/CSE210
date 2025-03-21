@@ -1,30 +1,30 @@
-using System;
-
-class Reference
+public class Reference
 {
     private string _book;
     private int _chapter;
-    private int _verse;
-    private int? _endVerse; // Nullable for single-verse cases
+    private int _startVerse;
+    private int _endVerse;
 
     public Reference(string book, int chapter, int verse)
     {
         _book = book;
         _chapter = chapter;
-        _verse = verse;
-        _endVerse = null;
+        _startVerse = verse;
+        _endVerse = verse;
     }
 
-    public Reference(string book, int chapter, int verse, int endVerse)
+    public Reference(string book, int chapter, int startVerse, int endVerse)
     {
         _book = book;
         _chapter = chapter;
-        _verse = verse;
+        _startVerse = startVerse;
         _endVerse = endVerse;
     }
 
     public string GetDisplayText()
     {
-        return _endVerse == null ? $"{_book} {_chapter}:{_verse}" : $"{_book} {_chapter}:{_verse}-{_endVerse}";
+        return _startVerse == _endVerse
+            ? $"{_book} {_chapter}:{_startVerse}"
+            : $"{_book} {_chapter}:{_startVerse}-{_endVerse}";
     }
 }
