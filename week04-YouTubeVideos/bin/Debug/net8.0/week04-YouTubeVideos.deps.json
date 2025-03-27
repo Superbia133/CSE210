@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "week04-YouTubeVideos/1.0.0": {
+        "runtime": {
+          "week04-YouTubeVideos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week04-YouTubeVideos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

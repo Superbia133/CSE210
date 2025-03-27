@@ -1,0 +1,15 @@
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\bin\Debug\net8.0\week04-YouTubeVideos.exe
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\bin\Debug\net8.0\week04-YouTubeVideos.deps.json
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\bin\Debug\net8.0\week04-YouTubeVideos.runtimeconfig.json
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\bin\Debug\net8.0\week04-YouTubeVideos.dll
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\bin\Debug\net8.0\week04-YouTubeVideos.pdb
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\week04-YouTubeVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\week04-YouTubeVideos.AssemblyInfoInputs.cache
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\week04-YouTubeVideos.AssemblyInfo.cs
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\week04-YouTubeVideos.csproj.CoreCompileInputs.cache
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\week04-YouTubeVideos.sourcelink.json
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\week04-YouTubeVideos.dll
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\refint\week04-YouTubeVideos.dll
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\week04-YouTubeVideos.pdb
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\week04-YouTubeVideos.genruntimeconfig.cache
+C:\Users\Ejgri\cse210\CSE210\week04-YouTubeVideos\obj\Debug\net8.0\ref\week04-YouTubeVideos.dll
