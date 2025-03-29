@@ -1,0 +1,15 @@
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\bin\Debug\net9.0\week04-OnlineOrdering.exe
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\bin\Debug\net9.0\week04-OnlineOrdering.deps.json
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\bin\Debug\net9.0\week04-OnlineOrdering.runtimeconfig.json
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\bin\Debug\net9.0\week04-OnlineOrdering.dll
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\bin\Debug\net9.0\week04-OnlineOrdering.pdb
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\week04-OnlineOrdering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\week04-OnlineOrdering.AssemblyInfoInputs.cache
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\week04-OnlineOrdering.AssemblyInfo.cs
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\week04-OnlineOrdering.csproj.CoreCompileInputs.cache
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\week04-OnlineOrdering.sourcelink.json
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\week04-OnlineOrdering.dll
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\refint\week04-OnlineOrdering.dll
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\week04-OnlineOrdering.pdb
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\week04-OnlineOrdering.genruntimeconfig.cache
+C:\Users\Ejgri\cse210\CSE210\week04-OnlineOrdering\obj\Debug\net9.0\ref\week04-OnlineOrdering.dll
