@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ejgri\\cse210\\CSE210\\week1\\Exercise3\\Exercise3.csproj",
+      "projectUniqueName": "C:\\Users\\Ejgri\\.vscode\\extensions\\pythonclass\\CSE210\\week1\\Exercise3\\Exercise3.csproj",
       "projectName": "Exercise3",
-      "projectPath": "C:\\Users\\Ejgri\\cse210\\CSE210\\week1\\Exercise3\\Exercise3.csproj",
+      "projectPath": "C:\\Users\\Ejgri\\.vscode\\extensions\\pythonclass\\CSE210\\week1\\Exercise3\\Exercise3.csproj",
       "packagesPath": "C:\\Users\\Ejgri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ejgri\\cse210\\CSE210\\week1\\Exercise3\\obj\\",
+      "outputPath": "C:\\Users\\Ejgri\\.vscode\\extensions\\pythonclass\\CSE210\\week1\\Exercise3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ejgri\\AppData\\Roaming\\NuGet\\NuGet.Config"
