@@ -1,0 +1,15 @@
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\bin\Debug\net8.0\Exercise5.exe
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\bin\Debug\net8.0\Exercise5.deps.json
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\bin\Debug\net8.0\Exercise5.runtimeconfig.json
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\bin\Debug\net8.0\Exercise5.dll
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\bin\Debug\net8.0\Exercise5.pdb
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\Exercise5.AssemblyInfoInputs.cache
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\Exercise5.AssemblyInfo.cs
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\Exercise5.sourcelink.json
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\Exercise5.dll
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\refint\Exercise5.dll
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\Exercise5.pdb
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\Exercise5.genruntimeconfig.cache
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week1\Exercise5\obj\Debug\net8.0\ref\Exercise5.dll
