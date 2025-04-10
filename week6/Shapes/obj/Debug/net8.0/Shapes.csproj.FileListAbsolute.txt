@@ -1,0 +1,15 @@
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\bin\Debug\net8.0\Shapes.exe
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\bin\Debug\net8.0\Shapes.deps.json
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\bin\Debug\net8.0\Shapes.runtimeconfig.json
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\bin\Debug\net8.0\Shapes.dll
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\bin\Debug\net8.0\Shapes.pdb
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfo.cs
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\Shapes.sourcelink.json
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\Shapes.dll
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\refint\Shapes.dll
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\Shapes.pdb
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\Shapes.genruntimeconfig.cache
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\week6\Shapes\obj\Debug\net8.0\ref\Shapes.dll
