@@ -1,0 +1,15 @@
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.exe
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.deps.json
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.runtimeconfig.json
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.dll
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.pdb
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfoInputs.cache
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfo.cs
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.csproj.CoreCompileInputs.cache
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.sourcelink.json
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.dll
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\refint\ExerciseTracking.dll
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.pdb
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.genruntimeconfig.cache
+C:\Users\Ejgri\.vscode\extensions\pythonclass\CSE210\ExerciseTracking\obj\Debug\net8.0\ref\ExerciseTracking.dll
